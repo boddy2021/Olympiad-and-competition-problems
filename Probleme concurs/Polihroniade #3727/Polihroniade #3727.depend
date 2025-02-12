@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645649138 source:c:\probleme concurs\polihroniade #3727\main.cpp
+	<stdio.h>
+	<string.h>
+

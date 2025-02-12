@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645865774 source:c:\probleme concurs\recyclebin #3448\main.cpp
+	<stdio.h>
+	<math.h>
+
